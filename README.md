@@ -1,2 +1,2 @@
-# fampage
-Aqui se encontra uma fampage feita por mim usando somente html e css
+# fanpage
+Aqui se encontra uma fanpage feita por mim usando somente html e css
